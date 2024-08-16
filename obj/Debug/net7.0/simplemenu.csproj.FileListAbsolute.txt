@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\simplemenu\bin\Debug\net7.0\simplemenu.exe
+C:\Users\ASUS\Desktop\simplemenu\bin\Debug\net7.0\simplemenu.deps.json
+C:\Users\ASUS\Desktop\simplemenu\bin\Debug\net7.0\simplemenu.runtimeconfig.json
+C:\Users\ASUS\Desktop\simplemenu\bin\Debug\net7.0\simplemenu.dll
+C:\Users\ASUS\Desktop\simplemenu\bin\Debug\net7.0\simplemenu.pdb
+C:\Users\ASUS\Desktop\simplemenu\obj\Debug\net7.0\simplemenu.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\simplemenu\obj\Debug\net7.0\simplemenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\simplemenu\obj\Debug\net7.0\simplemenu.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\simplemenu\obj\Debug\net7.0\simplemenu.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\simplemenu\obj\Debug\net7.0\simplemenu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\simplemenu\obj\Debug\net7.0\simplemenu.dll
+C:\Users\ASUS\Desktop\simplemenu\obj\Debug\net7.0\refint\simplemenu.dll
+C:\Users\ASUS\Desktop\simplemenu\obj\Debug\net7.0\simplemenu.pdb
+C:\Users\ASUS\Desktop\simplemenu\obj\Debug\net7.0\simplemenu.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\simplemenu\obj\Debug\net7.0\ref\simplemenu.dll
